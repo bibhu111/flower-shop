@@ -59,3 +59,121 @@ body{
   height: 850px;
   width: 635px;
 }
+
+/* feature style */
+/* .feature-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 178px;
+}
+.feature-content p{
+  margin-top: 24px;
+  text-align: center;
+  color: #848484;
+  font-size: 18px;
+  font-weight: 400px;
+}
+.feature-image-container{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-between;
+  margin-top: 48px;
+}
+.flower-photo{
+  background-color: rgb(242, 222, 232);
+  height: 538px;
+  gap: 24px;
+  width: 464px;
+  padding: 0 78px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+}
+.flower-photo img{
+  height: 428px;
+  width: 310px;
+} */
+.featured-content{
+  height: 132px;
+  width: 594px;
+  /* background-color: black; */
+  margin: 0 auto;
+  margin-top: 178px;
+  margin-bottom: 48px;
+}
+.featured-image{
+  width: 1440px;
+  height: 605px;
+  /* background-color: brown; */
+  margin: 0 auto;
+  display: flex;
+  gap: 24px;
+}
+.image-with-background1{
+  height: 536px;
+  width: 464px;
+  background-color: rgb(242, 222, 232);
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+}
+.image-with-background2{
+  height: 536px;
+  width: 464px;
+  background-color: rgb(218, 240, 241);
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+}
+.image-with-background3{
+  height: 536px;
+  width: 464px;
+  background-color: rgb(228, 236, 220);
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+}
+.image1{
+  height: 318.5px;
+  width: 310px;
+  /* background-color: blueviolet; */
+  /* margin: 0 auto; */
+  margin-top: 110px;
+  margin-left: 76px;
+  margin-right: 78px;
+  margin-bottom: 0;
+}
+.image2{
+  height: 400px;
+  width: 310px;
+  /* background-color: blueviolet; */
+  /* margin: 0 auto; */
+  margin-top: 110px;
+  margin-left: 76px;
+  margin-right: 78px;
+  margin-bottom: 0;
+}
+.image3{
+  height: 350px;
+  width: 310px;
+  /* background-color: blueviolet; */
+  /* margin: 0 auto; */
+  margin-top: 65px;
+  margin-left: 76px;
+  margin-right: 78px;
+  margin-bottom: 0;
+}
+.featured-content{
+  text-align: center;
+}
+.featured-content h1{
+  margin-bottom: 24px;
+  font-size: 33px;
+}
+.featured-content h2{
+  font-size: 24px;
+  font-weight: 10px;
+  
+}
+.featured-content p{
+  color: #828080;
+}
